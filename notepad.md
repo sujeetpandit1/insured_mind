@@ -1,10 +1,11 @@
 **---Process To Clone and start the server---**
 
 Step 1 : Clone The project to local machine;
-Step 2 : Update all necessary dependency by using "NPM UPDATE", (it will update all dependency);
-Step 3 : Install dotenv
-Step 4 : Replace this environment "MONGODB_URI =mongodb+srv://yourcluster";
-Step 5 : Run this by "NPM RUN DEV"; local server will started.
+Step 2 : Jump to file "cd insured_mind"
+Step 3 : Update all necessary dependency by using "NPM UPDATE", (it will update all dependency);
+Step 4 : Install dotenv
+Step 5 : Replace this environment "MONGODB_URI =mongodb+srv://yourcluster";
+Step 6 : Run this by "NPM RUN DEV"; local server will started.
 
 
 **--**
